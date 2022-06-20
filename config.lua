@@ -54,7 +54,19 @@ Config.Locations = {
 	{ name = 'Record A Studio - 7106', location = 'Record A Studio - 7106', coords = vector3(474.13, -104.01, 63.16),q_length = 3.0, q_width = 1, q_minZ = 60.56, q_maxZ = 64.56, q_heading = 250, price = 500000, keyname = 'recordastudio' },
 	-- WiWang Records Garage
 	{ name = 'WiWang', location = 'WiWang', coords = vector3(-816.24, -740.22, 23.21),q_length = 1.4, q_width = 6.6, q_minZ = 22.21, q_maxZ = 26.21, q_heading = 0, price = 500000, keyname = 'wiwang' },
-	-- Blaze It
-	
+	-- Underground Secret Garage
+	{ name = 'Garage 9286', location = 'Garage 9286', coords = vector3(859.29, -2367.07, 30.35),q_length = 5.0, q_width = 1.0, q_minZ = 29.35, q_maxZ = 33.15, q_heading = 265, price = 500000, keyname = 'boostinggaragekey' },
+	-- Auntie's House
+	{ name = 'House 9075', location = 'House 9075', coords = vector3(-14.22, -1440.94, 31.1),q_length = 1.8, q_width = 1.0, q_minZ = 30.1, q_maxZ = 32.5, q_heading = 90, price = 300000, keyname = 'house9075' },
+	-- Lester's House
+	{ name = 'House 9340', location = 'House 9340', coords = vector3(1274.28, -1720.19, 54.66),q_length = 1.6, q_width = 1.0, q_minZ = 53.66, q_maxZ = 56.26, q_heading = 295, price = 300000, keyname = 'house9340' },
+	-- MILLION DOLLAR APARTMENT 1
+	{ name = 'Floor 47 Apartment', location = 'Floor 47 Apartment', coords = vector3(-24.53, -597.61, 80.03),q_length = 1.6, q_width = 1.0, q_minZ = 79.03, q_maxZ = 81.63, q_heading = 340, price = 1000000, keyname = 'floor47key' },
+	--- MILLION DOLLAR APRARTMENT 2
+	{ name = 'Floor 49 Apartment', location = 'Floor 49 Apartment', coords = vector3(-17.97, -582.1, 90.11),q_length = 1.6, q_width = 1.0, q_minZ = 89.11, q_maxZ = 91.71, q_heading = 340, price = 1000000, keyname = 'floor49key' },
+	--- TEQUI-LA-LA
+	{ name = 'Tequilala', location = 'Tequilala', coords = vector3(-561.92, 293.34, 87.49),q_length = 1.8, q_width = 1.0, q_minZ = 86.49, q_maxZ = 89.29, q_heading = 85, price = 500000, keyname = 'tequilalakey' },
+	--- Garage 8198
+	{ name = 'Garage 8198', location = 'Garage 8198', coords = vector3(945.92, -985.67, 39.11),q_length = 6.0, q_width = 1.0, q_minZ = 38.11, q_maxZ = 43.71, q_heading = 275, price = 500000, keyname = 'garagekey8198' },
 	
 }
