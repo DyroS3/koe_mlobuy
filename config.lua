@@ -70,5 +70,9 @@ Config.Locations = {
 	{ name = 'Garage 8198', location = 'Garage 8198', coords = vector3(945.92, -985.67, 39.11),q_length = 6.0, q_width = 1.0, q_minZ = 38.11, q_maxZ = 43.71, q_heading = 275, price = 500000, keyname = 'garagekey8198' },
 	---- Little House Key
 	{ name = 'Little House', location = 'Little House', coords = vector3(2557.71, 6191.21, 165.39),q_length = 0.4, q_width = 1.0, q_minZ = 164.39, q_maxZ = 166.59, q_heading = 185, price = 250000, keyname = 'littlehousekey' },
+	---- Pops Diner Key
+	{ name = 'Pops Diner', location = 'Pops Diner', coords = vector3(1595.08, 6451.58, 26.06),q_length = 1.0, q_width = 1.0, q_minZ = 25.21, q_maxZ = 27.61, q_heading = 335, price = 250000, keyname = 'dinerkey' },
+	-- Log Cabin
+	{ name = 'Log Cabin', location = 'Log Cabin', coords = vector3(-400.58, 4707.39, 264.89),q_length = 1.4, q_width = 1.0, q_minZ = 263.89, q_maxZ = 266.29, q_heading = 83, price = 100000, keyname = 'logcabinkey' },
 	
 }
