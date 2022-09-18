@@ -33,7 +33,7 @@ Config.Locations = {
 	{ name = 'Pink Cage 13', location = 'Pink Cage - Room 13', coords = vector3(343.36, -209.69, 58.02),q_length = 1.6, q_width = 0.6, q_minZ = 57.12, q_maxZ = 59.92, q_heading = 160, price = 50000, keyname = 'pinkcage13' },
 	{ name = 'Pink Cage 14', location = 'Pink Cage - Room 14', coords = vector3(347.01, -199.74, 58.02),q_length = 1.6, q_width = 0.6, q_minZ = 57.12, q_maxZ = 59.92, q_heading = 160, price = 50000, keyname = 'pinkcage14' },
 	-- Mirror Park Houses
-	{ name = 'Mirror Park 7346', location = 'Mirror Park House - W 7346', coords = vector3(1100.42, -450.77, 67.4),q_length = 1.6, q_width = 0.4, q_minZ = 69.4, q_maxZ = 65.4, q_heading = 352, price = 300000, keyname = 'mirrorpark7346' },
+	{ name = 'Mirror Park 7346', location = 'Mirror Park House - W 7346', coords = vector3(1099.43, -439.19, 67.4),q_length = 1.4, q_width = 1.0, q_minZ = 66.9, q_maxZ = 69.3, q_heading = 83, price = 300000, keyname = 'mirrorpark7346' },
 	{ name = 'Mirror Park 7333', location = 'Mirror Park House - W 7333', coords = vector3(1221.61, -669.72, 63.49),q_length = 0.4, q_width = 1.6, q_minZ = 61.09, q_maxZ = 65.09, q_heading = 12, price = 300000, keyname = 'mirrorpark7333' },
 	{ name = 'Mirror Park 7343', location = 'Mirror Park House - E 7343', coords = vector3(1251.14, -494.07, 69.52),q_length = 1.6, q_width = 0.4, q_minZ = 67.52, q_maxZ = 71.52, q_heading = 347, price = 300000, keyname = 'mirrorpark7343' },
 	{ name = 'Mirror Park 7320', location = 'Mirror Park House - 7320', coords = vector3(978.91, -716.55, 57.8),q_length = 0.4, q_width = 1.6, q_minZ = 55.8, q_maxZ = 59.8, q_heading = 311, price = 300000, keyname = 'mirrorpark7320' },
