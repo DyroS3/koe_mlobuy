@@ -60,6 +60,6 @@ AddEventHandler('koe_mlobuy:getNewKey', function(locationkey)
         if exports.ox_inventory:CanCarryItem(src, locationkey, 1) then
             xPlayer.addInventoryItem(locationkey, 1)
         else
-            TriggerClientEvent('okokNotify:Alert', source, "Mining", "Not enough space", 8000, 'error')
+            TriggerClientEvent('ox_lib:notify', source, {type = 'error', description = 'Not enough space', duration = 8000, position = 'top'})
         end
 end)

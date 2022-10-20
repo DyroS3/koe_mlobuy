@@ -65,7 +65,7 @@ Config.Locations = {
 	--- MILLION DOLLAR APRARTMENT 2
 	{ name = 'Floor 49 Apartment', location = 'Floor 49 Apartment', coords = vector3(-17.97, -582.1, 90.11),q_length = 1.6, q_width = 1.0, q_minZ = 89.11, q_maxZ = 91.71, q_heading = 340, price = 1000000, keyname = 'floor49key' },
 	--- TEQUI-LA-LA
-	{ name = 'Tequilala', location = 'Tequilala', coords = vector3(-561.92, 293.34, 87.49),q_length = 1.8, q_width = 1.0, q_minZ = 86.49, q_maxZ = 89.29, q_heading = 85, price = 400000, keyname = 'tequilalakey' },
+	-- { name = 'Tequilala', location = 'Tequilala', coords = vector3(-561.92, 293.34, 87.49),q_length = 1.8, q_width = 1.0, q_minZ = 86.49, q_maxZ = 89.29, q_heading = 85, price = 400000, keyname = 'tequilalakey' },
 	--- Garage 8198
 	{ name = 'Garage 8198', location = 'Garage 8198', coords = vector3(945.92, -985.67, 39.11),q_length = 6.0, q_width = 1.0, q_minZ = 38.11, q_maxZ = 43.71, q_heading = 275, price = 500000, keyname = 'garagekey8198' },
 	---- Little House Key
@@ -74,5 +74,8 @@ Config.Locations = {
 	{ name = 'Pops Diner', location = 'Pops Diner', coords = vector3(1595.08, 6451.58, 26.06),q_length = 1.0, q_width = 1.0, q_minZ = 25.21, q_maxZ = 27.61, q_heading = 335, price = 250000, keyname = 'dinerkey' },
 	-- Log Cabin
 	{ name = 'Log Cabin', location = 'Log Cabin', coords = vector3(-400.58, 4707.39, 264.89),q_length = 1.4, q_width = 1.0, q_minZ = 263.89, q_maxZ = 266.29, q_heading = 83, price = 100000, keyname = 'logcabinkey' },
-	
+	--- Hills House 
+	{ name = 'Hills House', location = 'Hills House', coords = vector3(-747.74, 808.11, 214.6),q_length = 1.6, q_width = 1.0, q_minZ = 214.2, q_maxZ = 217.2, q_heading = 19, price = 1200000, keyname = 'hillshousekey' },
+	-- Weapon Repair Kit Shack
+	{ name = 'Repair Kit Shack', location = 'Repair Kit Shack', coords = vector3(2736.55, 4279.23, 48.39),q_length = 1.6, q_width = 1.0, q_minZ = 47.39, q_maxZ = 50.19, q_heading = 5, price = 500000, keyname = 'weaponkitkey' },
 }
